@@ -1,0 +1,11 @@
+文字渲染：
+v-text="title" 等于 {{title}}
+v-html =>> 会渲染html里面的标签 如 <span></span>
+列表渲染
+v-for="item in items"
+v-bind:class="{finished:item.isFinished}" =》 :后面为判断条件
+v-bind:class="[classA,classB]"数组class渲染 多个
+数据绑定：
+v-model="newItem"
+事件绑定：
+v-on:keyup.enter="addNew"
