@@ -9,3 +9,5 @@ v-bind:class="[classA,classB]"数组class渲染 多个
 v-model="newItem"
 事件绑定：
 v-on:keyup.enter="addNew"
+监听变化:
+watch

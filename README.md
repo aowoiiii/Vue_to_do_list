@@ -1,3 +1,5 @@
+(https://github.com/aowoiiii/Vue_to_do_list/show_img/GIF.gif)
+
 ``` 命令
 # 安装依赖包
 npm install
