@@ -1,6 +1,6 @@
 
 
-![](https://github.com/aowoiiii/Vue_to_do_list/tree/master/show_img/GIF.gif)  
+![](https://raw.githubusercontent.com/aowoiiii/Vue_to_do_list/master/show_img/GIF.gif)  
 ``` 命令
 # 安装依赖包
 npm install
